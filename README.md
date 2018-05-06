@@ -7,6 +7,8 @@ Ethereum blockchain smart contract for Metacoin - An Ethereum based token.
 2. Put MetaCoin.json into js folder under public
 3. Open index.html
 
+![metamask](metamask.png)
+
 ## Contributor
 
 Kenneth Hu 
